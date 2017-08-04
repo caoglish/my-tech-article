@@ -11,7 +11,5 @@ The articles I wroted and made a copy in this repo.
 - [Laravel - Collection reduce] (articles/Laravel-collection-reduce.md)
 - [PHP - array_reduce](articles/php-reduce.md)
 
-
-
 ## The Links:
 Some articles I wrote but not archived yet.
