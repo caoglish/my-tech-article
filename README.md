@@ -7,7 +7,7 @@ I wrote many tech articles around Internet. This repo is centralizing or archivi
 The articles I wroted and made a copy in this repo.
 
 - [Laravel - multi database connection](articles/Laravel-multi-database-connection.md) -  [[link in stackoverflow](https://stackoverflow.com/documentation/laravel/1093/database/7723/multiple-database-connections)]
-- [Laravel - Collection Macro](articles/laravel-collection-macro.md)
-
+- [Laravel - Collection macro](articles/laravel-collection-macro.md)
+- [Laravel - Collection reduce] (articles/Laravel-collection-reduce.md)
 ## The Links:
 Some articles I wrote but not archived yet.
