@@ -1,4 +1,4 @@
-## Laravel Multi Database Connection
+## Laravel - Multi Database Connection
 <!-- language-all: lang-php -->
 Laravel allows user work on multiple database connections. If you need to connect to multiple databases and make them work together, you are beware of the connection setup.
 
