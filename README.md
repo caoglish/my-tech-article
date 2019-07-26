@@ -13,3 +13,4 @@ The articles I wroted and made a copy in this repo.
 
 ## The Links:
 Some articles I wrote but not archived yet.
+- [What is a Laravel collection?](https://stackoverflow.com/questions/41466295/what-is-a-laravel-collection/45366565#45366565)
